@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330387606425",
+    "firebase_url": "https://assign-app-28550-default-rtdb.firebaseio.com",
+    "project_id": "assign-app-28550",
+    "storage_bucket": "assign-app-28550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330387606425:android:6d276e6d3beda22c1ba108",
+        "android_client_info": {
+          "package_name": "io.assignapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330387606425-j83aho4p8lp38q97inds5udh081m78hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGn1bQJNlKFiUBmKnpMY4gESZ8PNVrwlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330387606425-j83aho4p8lp38q97inds5udh081m78hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

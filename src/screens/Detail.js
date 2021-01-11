@@ -1,10 +1,9 @@
-import { View, Text , ScrollView } from 'react-native'
+import { View, Text , ScrollView, Image } from 'react-native'
 import React from 'react'
 import { Header } from 'react-native-elements'
 import { COLOR } from '../components/color/Color'
 import styles from '../global/styles'
 import { db } from '../config/firebase'
-import { Image } from 'react-native'
 import RelatedPosts from '../components/posts/RelatedPosts'
 
 
